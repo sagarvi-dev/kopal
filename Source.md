@@ -1,0 +1,2 @@
+  1. Mercurial - [Checkout](https://code.google.com/p/kopal/source/checkout?repo=default), [Browse](https://code.google.com/p/kopal/source/browse?repo=default), [Changes](https://code.google.com/p/kopal/source/list?repo=default), [Clone/Fork](https://code.google.com/p/kopal/source/clones?repo=default).
+  1. Git read-only [mirror](https://gitorious.org/kopal/kopal-ro).
